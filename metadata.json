@@ -1,0 +1,7 @@
+{
+  "name": "VoiceClone Studio",
+  "description": "Professional AI voice-cloning application that creates high-fidelity neural TTS models from custom audio samples using Gemini's advanced multimodal analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
